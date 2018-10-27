@@ -3,7 +3,6 @@
 ---
 @charset "utf-8";
 
-
 // Our variables
 $base-font-family: "Roboto","Helvetica Neue", Helvetica, Arial, cursive;
 $head-font-family: 'Work Sans',"Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -53,5 +52,5 @@ $on-laptop:        1000px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "style",
-        "gruvbox.scss"
+        "gruvbox"
 ;
