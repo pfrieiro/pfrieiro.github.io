@@ -4,7 +4,6 @@
 @charset "utf-8";
 
 
-
 // Our variables
 $base-font-family: "Roboto","Helvetica Neue", Helvetica, Arial, cursive;
 $head-font-family: 'Work Sans',"Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -15,29 +14,24 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.8;
 $spacing-unit:     30px;
-$text-color:       rgba(0, 0, 0, 0.8);
-$background-color: #fdfdfd;
+$text-color:       $gb_dark0;
+$background-color: $gb_light0;
 
 
 
 // Select a brand-color for your website. Keep it at the end if the list
-$brand-color:      #1fad83;
-$brand-color:      #7b59c0;
-$brand-color:      #282828;
-$brand-color:      #b65611;
-$brand-color:      #d43552;
-$brand-color:      #3d8fd1; //This color is applied currently.
+$brand-color:      $gb_faded_blue; //This color is applied currently.
 
 
-$grey-color:       #666;
+$grey-color:       $gb_gray_245;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 
 
@@ -58,5 +52,6 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "style"
+        "style",
+        "gruvbox.scss"
 ;
