@@ -69,10 +69,6 @@ blockquote {
     font-family: $code-font-family;
 }
 
-.highlight {
-    font-family: $code-font-family;
-}
-
 pre,
 code {
     border-radius: 3px;
@@ -81,6 +77,7 @@ code {
 
 code {
     padding: 1px 5px;
+    $code-font-family
     font-size: 0.8em;
 }
 
