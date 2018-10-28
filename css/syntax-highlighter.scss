@@ -2,13 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
-
+@import "../_sass/_gruvbox.scss";
 
 // Our variables
-$base-font-family: 'Poiret One',"Helvetica Neue", Helvetica, Arial, cursive;
-$base-font-family: 'Space Mono', monospace,"Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Roboto Mono', monospace,"Helvetica Neue", Helvetica, Arial, sans-serif;
 $head-font-family: 'Work Sans',"Helvetica Neue", Helvetica, Arial, sans-serif;
+$code-font-family: "Roboto Mono", monospace;
 
 $base-font-size:   16px;
 
@@ -18,19 +17,19 @@ $base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       #666;
-$background-color: #fdfdfd;
-$brand-color:      #3892b5;
-$comp-color:       #A7D3A6;
-$grey-color:       #666;
+$text-color:       $gb_dark0;
+$background-color: $gb_light0;
+$brand-color:      $gb_faded_blue;
+$comp-color:       $gb_bright_aqua;
+$grey-color:       $gb_gray_245;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 
 
