@@ -8,7 +8,7 @@ Hola! Mi nombre es Adrián Berges Enfedaque y éste sitio web está dedicado a
 mis intereses personales. A continuación podrás leer una breve descripción de
 quién soy.
 
-# Sobre mí
+## Sobre mí
 Actualmente trabajo como ingeniero técnico en el [CTAG](https://ctag.com/) en el
 departamento de Electrónica e ITS.
 
@@ -45,6 +45,6 @@ Capturan especialmente mi atención:
 - Robótica
 - Optimización y Machine Learning
 
-# El blog
+## El blog
 El tema utilizado en el blog es [Krishna](https://github.com/sharu725/krishna), del usuario [sharu725](https://github.com/sharu725) para [Jekyll](https://jekyllrb.com/) con algunas modificaciones.
 Hosted with [GitHub Pages](https://pages.github.com/).
