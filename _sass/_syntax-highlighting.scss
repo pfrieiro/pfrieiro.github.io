@@ -41,7 +41,7 @@
     .nb    { color: $gb_faded_aqua } // Name.Builtin
     .nc    { color: $gb_faded_yellow; font-weight: bold } // Name.Class
     .no    { color: $gb_neutral_blue } // Name.Constant
-    .ni    { color: #$gb_faded_purple } // Name.Entity
+    .ni    { color: $gb_faded_purple } // Name.Entity
     .ne    { color: $gb_faded_red; font-weight: bold } // Name.Exception
     .nf    { color: $gb_faded_red; font-weight: bold } // Name.Function
     .nn    { color: $gb_dark3 } // Name.Namespace
