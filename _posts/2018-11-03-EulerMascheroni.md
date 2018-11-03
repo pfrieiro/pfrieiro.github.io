@@ -21,7 +21,7 @@ Esta constante se obtiene como el límite de la diferencia entre la serie
 armónica y el logaritmo natural:
 
 $$
-\gamma = lim_{n\to\infty}\left( \sum_{k=1}^\n \frac{1}{k} - \log n\right)
+\gamma = \lim_{n\to\infty}\left( \sum_{k=1}^n \frac{1}{k} - \log n\right)
 $$
 
 El valor de ésta constante puede consultarse en la página para la secuencia
@@ -29,7 +29,7 @@ El valor de ésta constante puede consultarse en la página para la secuencia
 dígitos son:
 
 $$
-\gamma \approx 0.57721;56649;01532;86060;65120;90082;40243;10421;59335;93992...
+\gamma \approx 0.57721\;56649\;01532\;86060\;65120\;90082\;40243\;10421\;59335\;93992...
 $$
 
 El cálculo de ésta constante es interesante puesto que la fórmula mostrada en la
