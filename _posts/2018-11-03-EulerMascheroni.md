@@ -1,7 +1,8 @@
 ---
-title: Paralelización en julia
-author: Adrián Berges Enfedaque
-date: 03/11/2018
+layout: post
+title: "Paralelización en julia"
+categories: julia mathematics parallelization
+math: true
 ---
 
 # Introducción
@@ -63,7 +64,7 @@ end
 
 Se calcula para $n=10^6$:
 
-```julia; term=true
+```julia
 compute_γ(1_000_000)
 ```
 ```bash
@@ -202,8 +203,8 @@ evitar bugs).
 Los tiempos de cálculo comparados con la función no distribuida son:
 
 ```julia
-@btime harmonic_dis(1e10)
-@btime harmonic(1e10)
+@btime harmonic_dis(10^10)
+@btime harmonic(10^10)
 ```
 ```bash
 12.295 s (410 allocations: 38.50 KiB)
@@ -213,16 +214,16 @@ Los tiempos de cálculo comparados con la función no distribuida son:
 La mejora de velocidad es lineal, puesto que hay 5 procesos (el original y los 4
 añadidos con `addprocs`).
 
-## Resultados
+# Resultados
 
 Como paso final, hay que calcular la constante. Como el tipo `double` (o en
 julia, `Float64`) sólo tiene capacidad para representar unos 15 decimales, se
 usará `BigFloat`, que permite precisión arbitraria.
 Para ello, utiliza la librería de GNU [MPFR Library](https://www.mpfr.org/).
 
-Existen librerías mejores como
-[ArbFloat](https://github.com/JuliaArbTypes/ArbFloats.jl), pero no es el
-objetivo de éste post.
+Actualmente existen librerías como
+[ArbFloat](https://github.com/JuliaArbTypes/ArbFloats.jl) que resultan más
+eficientes y rápidas, pero se escapa al objetivo de este post.
 
 Por tanto, se define:
 

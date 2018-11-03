@@ -10,7 +10,10 @@
   <link rel="stylesheet" href="{{site.baseurl}}/css/syntax-highlighter.css">
   {% endif %}
   <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono|Work+Sans:700" rel="stylesheet">
-
+  <!-- MathJax -->
+  {% if page.math %}
+    {% include mathjax_support %}
+  {% endif %}
 </head>
 <body>
 
