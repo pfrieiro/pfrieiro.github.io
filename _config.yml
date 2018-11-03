@@ -6,7 +6,7 @@ baseurl: /blog
 sass: 
     style: compressed
 
-markdown: maruku
+markdown: kramdown
 
 # Tracker
 analytics: UA-83979019-1
