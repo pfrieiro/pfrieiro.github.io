@@ -33,10 +33,10 @@ $$
 $$
 
 El cálculo de ésta constante es interesante puesto que la fórmula mostrada en la
-definición tiene una convergencia muy lenta, del orden de $\mathcal{O}(n^-1)$,
+definición tiene una convergencia muy lenta, del orden de $\mathcal{O}(n^{-1})$,
 donde $n$ es el número de términos de la serie armónica.
 Esto quiere decir que el error cometido tomando $n=1000$ será de aproximadamente
-$10^-3$ y por ello que podemos esperar solo unos tres decimales de precisión.
+$10^{-3}$ y por ello que podemos esperar solo unos tres decimales de precisión.
 Por tanto, el número de decimales correctos es del orden $\mathcal{O}(\log n)$
 por lo que obtener 20 dígitos exige una gran cantidad de operaciones.
 
@@ -79,7 +79,7 @@ que es llamativa la expansión asintótica de la serie, que permite mejorar la
 eficiencia enormemente con un simple cambio:
 
 $$
-\gamma = lim_{n\to\infty}\left( \sum_{k=1}^\n \frac{1}{k} - \log \left(n+\frac{1}{2}+\frac{1}{24*n}\right)\right)
+\gamma = \lim_{n\to\infty}\left( \sum_{k=1}^n \frac{1}{k} - \log \left(n+\frac{1}{2}+\frac{1}{24\,n}\right)\right)
 $$
 
 Esto mejora la convergencia a $\mathcal{O}(\frac{\log n}{3})$.
