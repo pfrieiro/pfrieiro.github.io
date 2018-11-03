@@ -4,9 +4,8 @@ title: Acerca de...
 permalink: /about/
 ---
 
-Hola! Mi nombre es Adrián Berges Enfedaque y éste sitio web está dedicado a
-mis intereses personales. A continuación podrás leer una breve descripción de
-quién soy.
+Hola! Mi nombre es Adrián y éste sitio web está dedicado a mis intereses
+personales. A continuación podrás leer una breve descripción de quién soy.
 
 ## Sobre mí
 Actualmente trabajo como ingeniero técnico en el [CTAG](https://ctag.com/) en el
@@ -16,14 +15,6 @@ He trabajado en:
 
 - Técnicas de reducción de dimensionalidad (Universidad de Zaragoza, 2015-2016, 1 año)
 - Algoritmos de nube de puntos y sensores LiDAR (CTAG, 2018-Actualidad)
-
-Estoy familiarizado con las siguientes herramientas (lenguajes de programación,
-frameworks, software):
-
-- C++12
-- Julia
-- Matlab
-- ADTF
 
 Mi formación abarca varios campos de interés industrial:
 
@@ -36,14 +27,9 @@ Mi formación abarca varios campos de interés industrial:
   interacción entre objetos sencillos ante la acción del usuario mediante un
   brazo robótico, con respuestas tanto visuales como táctiles.
 
-Finalmente, soy un apasionado de aprender nuevas cosas y resolver problemas.
-Capturan especialmente mi atención:
-
-- Matemáticas
-- Computación / Ingeniería del Software
-- Física
-- Robótica
-- Optimización y Machine Learning
+Finalmente, me gusta aprender cosas nuevas y resolver problemas. Capturan
+especialmente mi atención las Matemáticas y Computación e Ingeniería del
+Software.
 
 ## El blog
 El tema utilizado en el blog es [Krishna](https://github.com/sharu725/krishna), del usuario [sharu725](https://github.com/sharu725) para [Jekyll](https://jekyllrb.com/) con algunas modificaciones.
