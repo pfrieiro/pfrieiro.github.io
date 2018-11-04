@@ -4,7 +4,7 @@ title: Acerca de...
 permalink: /about/
 ---
 
-![Paula Frieiro, Trabajadora Social.](C:\Users\Paula Frieiro\Documents\GitHub\pfrieiro.github.io\images\DSC_0323 (4).JPG)
+(https://i.imgur.com/8WXuHEl.jpg)
 
 Hola! Mi nombre es Paula y éste sitio web está dedicado a mis intereses
 personales. A continuación podrás leer una breve descripción de quién soy.
