@@ -7,7 +7,7 @@ permalink: /about/
 
 ![Paula Frieiro](https://i.imgur.com/8WXuHEl.jpg)
 
-Hola! Mi nombre es Paula y éste sitio web está dedicado a mis intereses
+Hola! Mi nombre es Paula y este sitio web está dedicado a mis intereses
 personales. A continuación podrás leer una breve descripción de quién soy.
 
 ## Sobre mí
