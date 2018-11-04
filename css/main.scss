@@ -5,9 +5,8 @@
 @import "../_sass/_gruvbox.scss";
 
 // Our variables
-$base-font-family: "Roboto", sans-serif,"Helvetica Neue", Helvetica, Arial, cursive;
-$head-font-family: 'Work Sans', sans-serif,"Helvetica Neue", Helvetica, Arial, sans-serif;
-$code-font-family: "Roboto Mono", monospace;
+$base-font-family: 'Vollkorn', serif;
+$head-font-family: 'Lato', sans-serif;
 
 $base-font-size:   18px;
 
@@ -16,12 +15,12 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.8;
 $spacing-unit:     30px;
 $text-color:       $gb_dark0;
-$background-color: $gb_light0;
+$background-color: $gb_light1;
 
 
 
 // Select a brand-color for your website. Keep it at the end if the list
-$brand-color:      $gb_faded_blue; //This color is applied currently.
+$brand-color:      #98FB98; //This color is applied currently.
 
 
 $grey-color:       $gb_gray_245;
