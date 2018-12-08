@@ -5,10 +5,6 @@ title: "De aporofobia, edadismo y sororidad"
 
 
 
-# De aporofobia, edadismo y sororidad
-
-
-
 > *Los límites de mi lenguaje son los límites de mi mundo.* [Ludwig Wittgenstein ](https://es.wikipedia.org/wiki/Ludwig_Wittgenstein) 
 
 Si repentinamente mencionamos los términos aporofobia, edadismo y sororidad pensaremos que en nada se asemejan pero, empecemos a *desgranar* la relación que tienen entre sí: 

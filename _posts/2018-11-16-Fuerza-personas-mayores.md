@@ -4,8 +4,6 @@ title: "De la fuerza de las personas más mayores"
 
 
 
-# De la fuerza de las personas más mayores 
-
 > *Envejecer no es perder la juventud, sino una nueva etapa de oportunidades y de fuerza.*
 >
 > Betty Friedan
