@@ -1,5 +1,5 @@
 ---
-title:"Realidades sociales a través de libros de ilustración y cómics"
+title: "Realidades sociales a través de libros de ilustración y cómics"
 ---
 
 
