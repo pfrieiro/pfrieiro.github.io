@@ -23,7 +23,7 @@ Mi formación abarca varios campos de interés social:
 
 - Estudié el Máster en Gerontología Social en la Universidad de Santiago de
   Compostela. En mi Trabajo de Fin de Máster me he interesado por las situaciones de soledad de las personas mayores, prevención en positivo, y envejecimiento activo entre otras cuestiones.
-- Estudié el Grado en Trabajo Social en la Universidad de Santiago de Compostela. Mi Trabajo de Fin de Grado se concretó en el estudio de situaciones de pobreza y exclusión social en pacientes hospitalarios, el cual está pendiente de publicación en la Revista Trabajo Social Hoy.
+- Estudié el Grado en Trabajo Social en la Universidad de Santiago de Compostela. Mi Trabajo de Fin de Grado se concretó en el estudio de situaciones de pobreza y exclusión social en pacientes hospitalarios, el cual ha sido publicado en la [Revista Trabajo Social Hoy](http://www.trabajosocialhoy.com/articulo/209/situaciones-de-pobreza-y-exclusion-social-en-pacientes-de-servicios-hospitalarios) 
 
 Finalmente, me gusta aprender cosas nuevas sobre mis intereses. Capturan
 especialmente mi atención la educación como herramienta frente a la exclusión social, la coeducaión, la investigación social y la interculturalidad.
