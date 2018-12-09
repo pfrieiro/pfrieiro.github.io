@@ -10,25 +10,25 @@ Hoy me gustaría recomendar una serie de libros de ilustración y cómic con vis
 
 A través de este libro Ricardo Cavolo nos plasma la realidad existente  a partir de lo que denomina como "periferias urbanas, humanas, geográficas, animales, vegetales y artísticas", sus historias nos relatan desde la situación de las favelas, los caballeros de bacongo, animales como el tapir, o escritores carismáticos como Lovecraft...pero lo que sin duda hace especial este libro son sus ilustraciones inspiradas en el Art Brut o arte marginal. 
 
-[Periferias](https://i.imgur.com/fHWyT6Nl.jpg)
+![Periferias](https://i.imgur.com/fHWyT6Nl.jpg)
 
 ***20 Mujeres que quiero que conozcas*. Autora: Ana Gamallo**
 
 Este libro para colorear y disfrutar lo ha realizado mi amiga Ana Gamallo, todos los dibujos están hechos a mano con mucho cariño, a través de el podemos conocer a mujeres poderosas que a lo largo de la historia no han gozado del debido reconocimiento, algunas de ellas son: Harret Tubman, Henrietta Leavitt, Temple Grandin o la increíble Surya Bonaly. Su cuaderno se puede adquirir en el [siguiente enlace](https://payhip.com/b/XdNZ) por tan solo 2,5€ más impuestos. 
 
-[20 mujeres que quiero que conozcas](https://i.imgur.com/DGrnhV1.jpg)
+![20 mujeres que quiero que conozcas](https://i.imgur.com/DGrnhV1.jpg)
 
 **B*ordados y Persépolis.* Autora: Marjane Satrapi**
 
 El más conocido de la autora iraní es *Persépolis*, a través del cual narra parte de su biografía, desde la salida de su país de origen en 1984 debido a la guerra y  situación política hasta su regreso a Irán. Pero no debemos de olvidarnos de otras de sus historias como la de *Bordados*, que centra su atención en el papel de la mujer a través de conversaciones con amigas y mujeres de su familia, en sus páginas nos podemos adentrar y comprender  las circunstancias que las rodeaban. 
 
-[Bordados](https://i.imgur.com/GvkHZbi.jpg)
+![Bordados](https://i.imgur.com/GvkHZbi.jpg)
 
 ***¿Qué es la Guerra?* Autor: Eduard Altarriba** 
 
 Este libro explica de forma sintética y a través de recordatorios históricos lo que es la guerra, así como todos los medios desplegados con el fin de evitarla.
 
-[Qué es la guerra](https://i.imgur.com/1Ynpxu9.jpg)
+![Qué es la guerra](https://i.imgur.com/1Ynpxu9.jpg)
 
 ***¡Todos migrantes!* AA. VV.** 
 
@@ -36,7 +36,7 @@ A través de 60 viñetas de prensa internacional se analiza la realidad migrator
 
 Destacar que la editorial de este libro, Cartooning for peace, tiene una amplia variedad de libros de temática social como por ejemplo: *El peso de la desigualdad, El sexo en portada, ¡El planeta se calienta!*...entre otros. 
 
-[Todos migrantes](https://i.imgur.com/sDsvXyK.jpg)
+![Todos migrantes](https://i.imgur.com/sDsvXyK.jpg)
 
 ***Crónicas Birmanas.* Autor: Guy Delisle** 
 
@@ -44,10 +44,10 @@ El autor habla de la situación sociopolítica por la que atravesaba Birmania y 
 
 También se podrían mencionar otras de sus obras, en las que narra testimonios de sus viajes a Asia y Oriente Medio: *Shenzhen* (2000), *Pyongyang* (2003) y *Crónicas de Jerusalén* (2011).
 
-[Crónicas Birmanas](https://i.imgur.com/j0QIhFm.jpg)
+![Crónicas Birmanas](https://i.imgur.com/j0QIhFm.jpg)
 
 ***A solas.* Autora: Idalia Candelas**
 
 El libro se asoma a la vida de una mujer soltera, realzando las cuestiones positivas de vivir sola y feliz, lo que no supone vivir aislada del mundo ni esperando a tener pareja. La protagonista, definida como una mujer contemporánea, se quiere y habla sobre el placer de estar consigo misma. 
 
-[A solas](https://i.imgur.com/p0PwEkK.jpg) 
+![A solas](https://i.imgur.com/p0PwEkK.jpg) 
