@@ -1,12 +1,10 @@
-
-
-title: "Abolición: como forma real de combartir la prostitución y trata de personas"
-
 > No hay barrera, cerradura ni cerrojo que puedas imponer a la libertad de mi mente.
 >
 > Virginia Woolf
 
 [Imgur](https://i.imgur.com/Ul5MN9G.jpg)
+
+![AmeliaTiganus][Imgur](https://i.imgur.com/Ul5MN9G.jpg)
 
 A continuación voy a describir algunas de las reflexiones personales que me vienen rondando desde que tuve la oportunidad de ver a la activista abolicionista y feminista **Amelia Tiganus**  ([Feminicidio.net](https://feminicidio.net/)) de la mano de la [Asamblea Feminista Paxaretas](https://www.facebook.com/pages/category/Community/Asemblea-Feminista-Paxaretas-290728918121962/)
 
