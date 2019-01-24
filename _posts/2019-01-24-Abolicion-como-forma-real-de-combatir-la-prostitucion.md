@@ -1,8 +1,8 @@
+
+
 > No hay barrera, cerradura ni cerrojo que puedas imponer a la libertad de mi mente.
 >
 > Virginia Woolf
-
-[Imgur](https://i.imgur.com/Ul5MN9G.jpg)
 
 ![AmeliaTiganus][Imgur](https://i.imgur.com/Ul5MN9G.jpg)
 
