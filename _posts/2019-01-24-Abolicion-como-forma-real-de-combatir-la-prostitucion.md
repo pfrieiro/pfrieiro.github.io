@@ -4,7 +4,7 @@
 >
 > Virginia Woolf
 
-![Amelia Tiganus](C:\Users\Paula Frieiro\Documents\GitHub\pfrieiro.github.io\images\AmeliaTiganus.jpg)
+![Amelia Tiganus](https://i.imgur.com/Ul5MN9Gm.jpg)
 
 A continuación voy a describir algunas de las reflexiones personales que me vienen rondando desde que tuve la oportunidad de ver a la activista abolicionista y feminista **Amelia Tiganus**  ([Feminicidio.net](https://feminicidio.net/)) de la mano de la [Asamblea Feminista Paxaretas](https://www.facebook.com/pages/category/Community/Asemblea-Feminista-Paxaretas-290728918121962/)
 
