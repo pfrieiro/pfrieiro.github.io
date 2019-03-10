@@ -13,7 +13,11 @@ personales. A continuación podrás leer una breve descripción de quien soy.
 ## Sobre mí
 Soy Trabajadora Social con gran vocación e interés por los colectivos en situación de exclusión social, también me mueve mi inquietud por conocer nuevas culturas y realidades sociales.
 
+En la actualidad soy doctoranda en [Educación Deporte y Salud](http://www.edys.es/) en la Universidad de Vigo, Trabajadora Social en el teléfono social de Galicia y colaboro impartiendo formaciones puntuales en instituciones como la Diputación de Pontevedra y Ourense.
+
 He trabajado en:
+
+* Trabajadora Social en el teléfono social de Galicia (Febrero de 2019-actualidad)
 
 - Trabajadora Social Municipal (Ayuntamiento de A Illa de Arousa, 2017-2018, 1 año)
 
