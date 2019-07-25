@@ -17,7 +17,9 @@ En la actualidad soy doctoranda en [Educación Deporte y Salud](http://www.edys.
 
 He trabajado en:
 
-* Trabajadora Social en el teléfono social de Galicia (Febrero de 2019-actualidad)
+- Trabajadora Social en punto de encuentro familiar (Julio de 2019-actualidad)
+
+* Trabajadora Social en el teléfono social de Galicia (Febrero de 2019-junio de 2019)
 
 - Trabajadora Social Municipal (Ayuntamiento de A Illa de Arousa, 2017-2018, 1 año)
 
