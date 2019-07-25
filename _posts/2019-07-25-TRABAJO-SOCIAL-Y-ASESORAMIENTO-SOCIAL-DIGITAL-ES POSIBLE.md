@@ -2,7 +2,9 @@
 title: "Trabajo Social y asesoramiento digital ¿Es posible?"
 ---
 
-![](..\images\network-3597099_960_720.jpg)
+![Red](https://i.imgur.com/LzsmGII.jpg))
+
+
 
 Dejando claro en primera instancia que la herramientas tecnológicas, aplicaciones y recursos que se mencionarán difícilmente modifican *per se* una situación de diversidad funcional o una situación de exclusión social. Recalcar que por nuestra parte, no debemos permanecer al margen de la realidad digital, debemos conocerla  y ser conscientes de que las herramientas virtuales se han convertido en uno de los grandes escenarios de socialización, trabajo e interacción del S. XXI.
 
