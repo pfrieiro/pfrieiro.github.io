@@ -2,21 +2,21 @@
 title: "Trabajo Social y asesoramiento digital ¿Es posible?"
 ---
 
-![Red](https://i.imgur.com/LzsmGII.jpg))
+![Red](https://i.imgur.com/LzsmGII.jpg)
 
 
 
-Dejando claro en primera instancia que la herramientas tecnológicas, aplicaciones y recursos que se mencionarán difícilmente modifican *per se* una situación de diversidad funcional o una situación de exclusión social. Recalcar que por nuestra parte, no debemos permanecer al margen de la realidad digital, debemos conocerla  y ser conscientes de que las herramientas virtuales se han convertido en uno de los grandes escenarios de socialización, trabajo e interacción del S. XXI.
+Dejando claro en primera instancia que la herramientas tecnológicas, aplicaciones y recursos que se mencionarán difícilmente modifican *per se* una situación de diversidad funcional o una situación de exclusión social. Como profesionales, no debemos permanecer al margen de la realidad digital, debiendo conocerla  y ser conscientes de que las herramientas virtuales se han convertido en uno de los grandes escenarios de socialización, trabajo e interacción del S. XXI.
 
 Autores como [Adam Alter](<https://en.wikipedia.org/wiki/Adam_Alter>) postulan que las pantallas están dominando nuestra rutina, además de afirmar que muchas aplicaciones usan algoritmos seductores para atraer nuestra atención la mayor cantidad de tiempo posible. Y aunque lo que se pretende no es crear un discurso tecnofóbico, si se debe conocer las *contraindicaciones* de estas herramientas y de su abuso. 
 
 Una vez aclarado esto y siendo conscientes de que Internet está repleto de *ruido* y las cada vez más comunes *fake news*, también tenemos que aprender sobre lo relevante que puede llegar a ser la utilización de las tecnologías de la información, aplicaciones, herramientas y dispositivos que pueden ser de beneficio para la sociedad. 
 
-En la [Convención sobre los derechos de las personas con discapacidad de 2006](https://www.un.org/esa/socdev/enable/documents/tccconvs.pdf)  (artículos 20 y 26), la resolución de la Asamblea Mundial de la Salud y las Normas Uniformes sobre la igualdad de oportunidades para las personas con discapacidad subrayó la importancia de los dispositivos tecnológicos de apoyo. Se pedía a los Estados que promoviesen el acceso a los dispositivos y las tecnologías de apoyo a un costo asequible y que proporcionasen  capacitación a las personas con discapacidad, a los profesionales y al personal que trabajan en los servicios de habilitación y rehabilitación.
+En la propia [Convención sobre los derechos de las personas con discapacidad de 2006](https://www.un.org/esa/socdev/enable/documents/tccconvs.pdf)  (artículos 20 y 26),  resolución de la Asamblea Mundial de la Salud y las Normas Uniformes sobre la igualdad de oportunidades para las personas con discapacidad, subrayó la importancia de los dispositivos tecnológicos de apoyo. Se pedía a los Estados que promoviesen el acceso a los dispositivos y las tecnologías de apoyo a un costo asequible y que proporcionasen  capacitación a las personas con discapacidad, a los profesionales y al personal que trabajan en los servicios de habilitación y rehabilitación.
 
 Por su parte, las aplicaciones y herramientas a mencionar no van ligadas exclusivamente a  situaciones de diversidad funcional, pueden ser usadas para incrementar nuestro contacto con la comunidad, ante situaciones de soledad no deseada, por personas mayores que lo deseen o vivan solas, para prevenir la victimización secundaria en casos de violencia de género o ante situaciones de emergencia. 
 
-A continuación, a modo de ejemplo, concreto algunas de las herramientas tecnológicas y aplicaciones que como profesionales del Trabajo Social podemos sugerir y de las que en muchas ocasiones no somos conscientes. 
+A modo de ejemplo, concreto algunas de las herramientas tecnológicas y aplicaciones que como profesionales del Trabajo Social podemos sugerir y de las que en muchas ocasiones no somos conscientes. 
 
 - [App Be my eyes](<https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes&hl=es>): A través de una video llamada en directo, voluntariado apoya a personas con ceguera o déficit de visión prestándoles ayuda visual para tareas como el reconocimiento de colores, comprobar si las luces están encendidas o preparar la cena. La aplicación es de uso gratuito y está disponible para iOS y Android.
 
